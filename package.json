@@ -1,0 +1,17 @@
+{
+  "name": "hair-vision-ai",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "framer-motion": "^10.16.1",
+    "lucide-react": "^0.268.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "@shadcn/ui": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
